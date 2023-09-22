@@ -4,7 +4,7 @@ This is a Foundry Simple Storage Project that is part of Cyfrin Solidity Blockch
 ## Setup
 Clone this Repository
 ```
-git clone https://github.com/Cyfrin/foundry-simple-storage-f23
+git clone https://github.com/dannweeeee/foundry-simple-storage-f23
 cd foundry-simple-storage-f23
 ```
 ## Deployment to a Testnet
